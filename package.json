@@ -9,7 +9,6 @@
     "generate": "faust generatePossibleTypes",
     "start": "faust start",
     "codegen": "graphql-codegen",
-    "vercel-build": "npm run prepare && next build" ,
     "watch-codegen": "graphql-codegen -w",
     "wc": "graphql-codegen -w",
     "tsc": "tsc"
